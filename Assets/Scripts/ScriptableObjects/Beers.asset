@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe761ff1f0568e45b74450c76cc806d, type: 3}
+  m_Name: Beers
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: 608f9c542ced0ed47a06ea99e085f58f, type: 2}
+  - {fileID: 11400000, guid: 67248da8d1b14c04793870437b770ea6, type: 2}
+  - {fileID: 11400000, guid: f044df35505e82140a528733ed7ad515, type: 2}
+  typeOfProduct: 6

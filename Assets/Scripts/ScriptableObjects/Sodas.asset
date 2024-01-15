@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe761ff1f0568e45b74450c76cc806d, type: 3}
+  m_Name: Sodas
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: bf1329afc03ed2644819cd77f448f82d, type: 2}
+  - {fileID: 11400000, guid: 846c96f85988f22459efdecbe935e6d1, type: 2}
+  - {fileID: 11400000, guid: fd9fa1a8416eed443be104146e20e7f3, type: 2}
+  - {fileID: 11400000, guid: 00ee4d87271d0194285cd69f68dceecf, type: 2}
+  - {fileID: 11400000, guid: ca3c9f2d330bef04db184b50a9f0b3d7, type: 2}
+  - {fileID: 11400000, guid: 53557a9a6008250459064b0711bfdbf4, type: 2}
+  - {fileID: 11400000, guid: 56ce825e55a7b3d418ebbe8565f28242, type: 2}
+  typeOfProduct: 5

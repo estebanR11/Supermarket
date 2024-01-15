@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe761ff1f0568e45b74450c76cc806d, type: 3}
+  m_Name: Dairy
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: 132972f463ce0d64ab1d48aed51d8a69, type: 2}
+  - {fileID: 11400000, guid: 168f1577ff6ae1043942fb13611f0d95, type: 2}
+  - {fileID: 11400000, guid: 56623f55758e21e409b580d65fc52d55, type: 2}
+  - {fileID: 11400000, guid: 699daefd87098934ca2b80eccefc3a71, type: 2}
+  - {fileID: 11400000, guid: c3559c73473a7f249b9dc335082f02d2, type: 2}
+  - {fileID: 11400000, guid: 537be6e9bd139374eb0df92592fcf320, type: 2}
+  - {fileID: 11400000, guid: 19ac417af2fc1c64381c6b5c0c26104b, type: 2}
+  - {fileID: 11400000, guid: bac6a23408e64724ba1a5b0c83cd032f, type: 2}
+  - {fileID: 11400000, guid: 5c668b929c3cf3d468df012dad5a0bc1, type: 2}
+  - {fileID: 11400000, guid: 3c532d8a88593a94bbf6b7dee994d032, type: 2}
+  - {fileID: 11400000, guid: f3da64eba367ec849b2c72d7fdc905c2, type: 2}
+  typeOfProduct: 3

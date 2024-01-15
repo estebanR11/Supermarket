@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe761ff1f0568e45b74450c76cc806d, type: 3}
+  m_Name: Cleaning
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: 9cfd96f69a9eb6d4ebf593f356d7105a, type: 2}
+  - {fileID: 11400000, guid: 02b7cad040b69ea4b8f15a3053f8c66b, type: 2}
+  - {fileID: 11400000, guid: ae892c8af00ca484282edc36c03e16ac, type: 2}
+  typeOfProduct: 0

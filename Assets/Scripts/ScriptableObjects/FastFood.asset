@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe761ff1f0568e45b74450c76cc806d, type: 3}
+  m_Name: FastFood
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: c5ab3dc682be66247a0fbf0d3ff4f231, type: 2}
+  - {fileID: 11400000, guid: 48924ad646047024bb9b004e019862f8, type: 2}
+  - {fileID: 11400000, guid: 2835f0222e9ace1459025ad4a1c80250, type: 2}
+  - {fileID: 11400000, guid: a300e3f8de5e78c47a6e28b16e2eb4e0, type: 2}
+  - {fileID: 11400000, guid: 28489c42f271f1548988324fca8e6429, type: 2}
+  - {fileID: 11400000, guid: 456e6b4d9ea37b54ab2de1c6ea55673a, type: 2}
+  - {fileID: 11400000, guid: 3c3ad56b97471404bacb902e068041cd, type: 2}
+  - {fileID: 11400000, guid: 01beba3ff840e854cab4ff5e406cd728, type: 2}
+  - {fileID: 11400000, guid: 03ceade3769bf9241afe87ea7eee6d92, type: 2}
+  - {fileID: 11400000, guid: 14021d60bb2e990438a400226713cdc6, type: 2}
+  - {fileID: 11400000, guid: 48908dc44f5d12c4e8421ff5936b9f24, type: 2}
+  - {fileID: 11400000, guid: 72c09c36a63c6554cac3b24044334eca, type: 2}
+  - {fileID: 11400000, guid: 3e56077846346004382b5ca286aa689b, type: 2}
+  - {fileID: 11400000, guid: b245fe043770ea946b277f48076d9b9d, type: 2}
+  typeOfProduct: 1

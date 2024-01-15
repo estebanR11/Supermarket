@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe761ff1f0568e45b74450c76cc806d, type: 3}
+  m_Name: VegetablesAndFruits
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: 1729958f6f634a248b5dc81315e05f0c, type: 2}
+  - {fileID: 11400000, guid: ff9b94b9b41e98c4ab0c34b32f670d13, type: 2}
+  - {fileID: 11400000, guid: ad3e01d1d92e49044b333bc61f97a45c, type: 2}
+  - {fileID: 11400000, guid: 37317ab26959c954285d6f22841e12c7, type: 2}
+  - {fileID: 11400000, guid: 7b48d63060c8a1e479c60615e7c23c41, type: 2}
+  - {fileID: 11400000, guid: d7fb27546c04a4d478855259f51f0ec4, type: 2}
+  - {fileID: 11400000, guid: 98955959b6ef5ca4c8c95f05b5aa6167, type: 2}
+  - {fileID: 11400000, guid: 6b34e156e3cfa484784ab02d256ee3a2, type: 2}
+  - {fileID: 11400000, guid: baebc067272427744994bf9a3a42af5b, type: 2}
+  - {fileID: 11400000, guid: 468421d0d46a7de4d9d002b4bf87527a, type: 2}
+  - {fileID: 11400000, guid: ae2e7bccb2edf7649b9445b819c7ba07, type: 2}
+  typeOfProduct: 4
